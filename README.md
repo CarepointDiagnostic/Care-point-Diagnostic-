@@ -1,1 +1,83 @@
-# Care-point-Diagnostic-
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CarePoint Diagnostics | Home Blood Test Collection</title>
+  <style>
+    body { font-family: 'Segoe UI', sans-serif; margin: 0; padding: 0; background: #f4f6f9; color: #333; }
+    header { background: linear-gradient(to right, #1e88e5, #43a047); color: #fff; padding: 30px 20px; text-align: center; }
+    header h1 { font-size: 2.2rem; margin-bottom: 10px; }
+    header p { font-size: 1.1rem; }.hero-image {
+  background-image: url('https://cdn.pixabay.com/photo/2020/04/13/20/25/blood-test-5037028_1280.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+  position: relative;
+}
+.hero-image::after {
+  content: "";
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background-color: rgba(0,0,0,0.4);
+}
+
+.hero-text {
+  position: absolute;
+  top: 50%; left: 50%; transform: translate(-50%, -50%);
+  color: #fff;
+  font-size: 1.8rem;
+  text-align: center;
+  font-weight: bold;
+}
+
+.container { padding: 30px 20px; max-width: 1000px; margin: auto; background: #fff; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); margin-top: -60px; position: relative; z-index: 1; }
+h2 { color: #1e88e5; margin-top: 0; }
+ul { padding-left: 20px; }
+li { margin-bottom: 10px; }
+.price-box { background: #e8f5e9; padding: 20px; border-left: 5px solid #43a047; border-radius: 6px; margin-bottom: 20px; }
+
+.btn {
+  display: inline-block;
+  background: #1e88e5;
+  color: #fff;
+  padding: 12px 25px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+footer { background: #eee; text-align: center; padding: 20px; font-size: 0.9rem; margin-top: 40px; }
+
+  </style>
+</head>
+<body>  <header>
+    <h1>CarePoint Diagnostics</h1>
+    <p>Home Sample Collection | Report at Doorstep | Pay Only Test Cost</p>
+  </header>  <div class="hero-image">
+    <div class="hero-text">Blood Tests @ Home – No Extra Cost</div>
+  </div>  <div class="container">
+    <h2>🔥 Best Price Packages</h2>
+    <div class="price-box">
+      <strong>Full Body Checkup</strong> – ₹999<br>
+      <strong>Vitamin D + B12</strong> – ₹799<br>
+      <strong>Thyroid Profile</strong> – ₹449<br>
+      <strong>Liver Function Test (LFT)</strong> – ₹499<br>
+      <strong>Diabetes Panel</strong> – ₹399
+    </div><h2>✅ Why Choose Us?</h2>
+<ul>
+  <li>Free Home Blood Sample Collection</li>
+  <li>No Hidden Charges – Only Pay Test Cost</li>
+  <li>Same/Near Day Reports on WhatsApp</li>
+  <li>Discounted Packages Every Month</li>
+  <li>Certified Partner of NABL Lab</li>
+</ul>
+
+<h2>📱 Book Your Test Now</h2>
+<p>Call or WhatsApp: <strong>9341361393</strong></p>
+<a href="https://wa.me/919341361393" class="btn">📩 Book on WhatsApp</a>
+
+  </div>  <footer>
+    &copy; 2025 CarePoint Diagnostics. Powered by a trusted Thyrocare franchise.
+  </footer></body>
+</html># Care-point-Diagnostic-
